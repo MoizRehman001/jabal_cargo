@@ -13,3 +13,4 @@ Currently, two official plugins are available:
 
 # jabal_cargo
 # jabal_cargo
+# jabal_cargo
